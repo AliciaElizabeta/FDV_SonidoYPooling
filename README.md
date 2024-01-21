@@ -1,4 +1,4 @@
-#FDV; Sonido y Polling
+# FDV Sonido y Polling
 
 ### ¿Que pasa al aumentar el Spread?
 Se siente menos cuando el emisor se aleja de nosotros porque el audio pasa a estar más extendido por el espacio. Y tardamos más tiempo en dejar de oirlo.
