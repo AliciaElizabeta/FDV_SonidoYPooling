@@ -12,3 +12,4 @@ Que el disminuir el max distance el sonido se atenua más rápido  y al aumentar
 Que la relación entre distancia y volumen pasa de regirse por una funcion logaritmica a ser una relación direccional 
 
 ### Pooling de objetos
+![GifResultante](gifs/pooling.gif)
